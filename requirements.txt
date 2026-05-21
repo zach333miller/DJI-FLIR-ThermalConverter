@@ -1,0 +1,4 @@
+numpy>=1.24
+pillow>=10.0
+piexif>=1.1.3
+pyinstaller>=6.0

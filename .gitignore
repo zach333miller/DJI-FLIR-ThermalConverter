@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec.bak
+
+# DJI's license precludes redistribution of the SDK DLLs in a public source
+# repo. They are bundled into the .exe at build time, but should not be
+# committed to git.
+tsdk_dlls/*.dll
+tsdk_dlls/*.ini
+tsdk_dlls/*.exe
+
+# exiftool is GPL — ship it inside the .exe, but don't redistribute the
+# Strawberry Perl payload in source.
+exiftool.exe
+exiftool_files/
