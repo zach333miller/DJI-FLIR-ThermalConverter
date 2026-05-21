@@ -7,6 +7,14 @@
 Ships as a single double-clickable Windows `.exe`. No Python install, no
 DJI SDK download, no command line. Pick a folder, get a folder.
 
+### ⬇️ Download
+
+[**Download DJI-to-FLIR.exe (latest release)**](https://github.com/zach333miller/DJI-FLIR-ThermalConverter/releases/latest/download/DJI-to-FLIR.exe)
+&nbsp;·&nbsp;
+[All releases](https://github.com/zach333miller/DJI-FLIR-ThermalConverter/releases)
+
+Windows 10 / 11, 64-bit. Self-contained — nothing else to install.
+
 ---
 
 ## Example
